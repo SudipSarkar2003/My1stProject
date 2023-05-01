@@ -1,0 +1,40 @@
+*{
+    background:black;
+}
+*{
+    margin-left: 20px;
+    
+    list-style-position: inside;
+  }
+  
+h1{
+    color:White;
+}
+h2{
+    color:beige;
+}
+.color-title{
+    font-weight:normal;}
+
+img{
+    height:250px;
+    width:250px;
+}
+
+#red{
+    color:red;
+}
+#blue{
+    color:skyblue;
+}
+
+#orange{
+    color:orange;
+}
+
+#green{
+    color:green;
+}
+#yellow{
+    color:yellow;
+}
